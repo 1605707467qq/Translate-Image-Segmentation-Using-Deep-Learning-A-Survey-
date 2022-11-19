@@ -1,4 +1,3 @@
-[toc]
 
 # Image Segmentation Using Deep Learning:A Survey 使用深度学习进行图像分割：一项调查
 
